@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/164d8cf11d.html</loc>
+    <loc>https://kktutor.github.io/kkblog/posts/164d8cf11d.html</loc>
     
     <lastmod>2023-06-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/16b4df6154.html</loc>
+    <loc>https://kktutor.github.io/kkblog/posts/16b4df6154.html</loc>
     
     <lastmod>2023-06-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/16d87f7e0c.html</loc>
+    <loc>https://kktutor.github.io/kkblog/posts/16d87f7e0c.html</loc>
     
     <lastmod>2023-06-15</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/134a17b156.html</loc>
+    <loc>https://kktutor.github.io/kkblog/posts/134a17b156.html</loc>
     
     <lastmod>2023-06-13</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://kktutor.github.io/kkblog</loc>
     <lastmod>2023-06-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

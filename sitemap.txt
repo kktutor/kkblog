@@ -1,5 +1,5 @@
-http://example.com/posts/164d8cf11d.html
-http://example.com/posts/16b4df6154.html
-http://example.com/posts/16d87f7e0c.html
-http://example.com/posts/134a17b156.html
-http://example.com/
+https://kktutor.github.io/kkblog/posts/164d8cf11d.html
+https://kktutor.github.io/kkblog/posts/16b4df6154.html
+https://kktutor.github.io/kkblog/posts/16d87f7e0c.html
+https://kktutor.github.io/kkblog/posts/134a17b156.html
+https://kktutor.github.io/kkblog
