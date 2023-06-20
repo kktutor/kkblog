@@ -6,7 +6,7 @@
   <link href="https://kktutor.github.io/kkblog/atom.xml" rel="self"/>
   
   <link href="https://kktutor.github.io/kkblog/"/>
-  <updated>2023-06-15T23:55:07.934Z</updated>
+  <updated>2023-06-20T00:00:35.745Z</updated>
   <id>https://kktutor.github.io/kkblog/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>添加视频</title>
+    <link href="https://kktutor.github.io/kkblog/posts/2064025069.html"/>
+    <id>https://kktutor.github.io/kkblog/posts/2064025069.html</id>
+    <published>2023-06-19T23:11:23.000Z</published>
+    <updated>2023-06-20T00:00:35.745Z</updated>
+    
+    <content type="html"><![CDATA[<iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=759542740&bvid=BV1h64y1B7dA&cid=379834587&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;415&quot; src=&quot;//player.bilibili.com/player.html?aid=759542740&amp;bvid=BV1h64y1B7dA&amp;cid=379834587&amp;page=1&quot; scrolling=&quot;no</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>suoluetu</title>
+    <link href="https://kktutor.github.io/kkblog/posts/19250cf171.html"/>
+    <id>https://kktutor.github.io/kkblog/posts/19250cf171.html</id>
+    <published>2023-06-18T23:28:06.000Z</published>
+    <updated>2023-06-19T04:30:28.235Z</updated>
+    
+    <content type="html"><![CDATA[<p>123</p>]]></content>
+    
+    
+    <summary type="html">123654</summary>
+    
+    
+    
+    <category term="杂项" scheme="https://kktutor.github.io/kkblog/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+    <category term="测试" scheme="https://kktutor.github.io/kkblog/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>建立个人博客站</title>
