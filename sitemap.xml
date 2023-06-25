@@ -4,7 +4,16 @@
   <url>
     <loc>https://kktutor.github.io/kkblog/posts/2064025069.html</loc>
     
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kktutor.github.io/kkblog/posts/2158fefacf.html</loc>
+    
+    <lastmod>2023-06-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://kktutor.github.io/kkblog</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,7 +75,7 @@
   
   <url>
     <loc>https://kktutor.github.io/kkblog/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -75,7 +84,7 @@
   
   <url>
     <loc>https://kktutor.github.io/kkblog/categories/%E6%9D%82%E9%A1%B9/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
